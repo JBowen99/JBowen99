@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi there! 👋 I'm Joseph Bowen
+Welcome to my GitHub profile! I'm a passionate developer who loves creating intuitive, functional, and visually stunning web applications. My work focuses on using modern frameworks and tools to solve real-world problems and deliver exceptional user experiences.
 
-<!--
-**JBowen99/JBowen99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Featured Projects
+🌟 PrettyShot (prettyscreenshot.com)
+Transform your screenshots into beautiful presentations with just a few clicks. Add backgrounds, shadows, and effects – all in your browser.
+Tech Stack: Typescript, React, Tailwind, Supabase, Replicate API
 
-Here are some ideas to get you started:
+♟️ Chess Stat Tracker
+Track your Chess.com stats, including win rate, rating over time, result breakdown, and opening performance. Styled like Tracker.gg, all stats are pulled from the Chess.com API.
+Tech Stack: Javascript, Svelte Kit, Tailwind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛰️ Satellite Tracker
+Visualize satellite orbital data in 3D using TLE API and Two Line Element data, rendered with ThreeJS.
+Tech Stack: React, ThreeJS, Tailwind
+
+🍯 Honeycomb ERP
+An ERP solution for a non-profit wheelchair organization. Tracks patient contacts, clinic appointments, wheelchair configurations, and inventory/production.
+Tech Stack: React, Shadcn UI, Tailwind, Appwrite Database
+
+🖼️ Stickerfye
+Upload an image, choose a style, and generate custom stickers using AI models.
+Tech Stack: React, NextJS, Tailwind, Supabase Database
+
+📖 Technologies I Love Working With
+Frameworks: React, Remix.Run, NextJS, Svelte Kit
+Frontend: Tailwind CSS, Shadcn UI
+Backend: Appwrite, Supabase, Looking to use Turso for my next project
+Others: ThreeJS
+
+Thanks for stopping by! 🚀
