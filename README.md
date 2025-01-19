@@ -5,7 +5,7 @@ I'm a biomedical engineer and web developer. I make cool stuff when I have time.
 
 ## Some cool stuff: 
 
-### 🌟 **PrettyShot** (prettyscreenshot.com)  
+### 🌟 **[PrettyShot](https://prettyscreenshot.com)**  
 Transform your screenshots into beautiful presentations with just a few clicks. Add backgrounds, shadows, and effects – all in your browser.  
 **Tech Stack:** Typescript, React, Tailwind, Supabase, Replicate API  
 
