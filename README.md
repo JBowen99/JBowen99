@@ -8,6 +8,9 @@ I'm a biomedical engineer and web developer. I make cool stuff when I have time.
 ### ✏️ **[WrkIn.Space](https://wrkin.space)**
 WIP - Simple, self-hostable, collaborative work space.
 
+### **[CADZero](https://github.com/JBowen99/CADZero)**
+WIP - Opensource text-to-CAD
+
 ### 🧑‍🍳 **[Cookify](https://cookifyai.com)**
 WIP - AI Cooking assistant! Generate and organize recipes, plan meals for the week, automatically make shopping lists, and chat with "Chefy" for cooking assistance!
 
