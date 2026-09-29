@@ -5,6 +5,9 @@ I'm a biomedical engineer and web developer. I make cool stuff when I have time.
 
 ## Some cool stuff: 
 
+### **[Daizy](https://trydaizy.com)**
+Simple, intuitive inventory managment
+
 ### ✏️ **[WrkIn.Space](https://wrkin.space)**
 WIP - Simple, self-hostable, collaborative work space.
 
